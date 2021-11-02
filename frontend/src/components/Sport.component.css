@@ -1,0 +1,16 @@
+.g1{
+	display:flex;
+	flex-wrap:wrap;
+}
+#r1{
+	background-color: black;
+	font-size:50px;
+	color:yellow;
+		width:3000px;
+
+}
+.t1 a{
+	color:black;
+font-size:12px;
+
+}
